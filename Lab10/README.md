@@ -1,0 +1,3 @@
+Program prezentujący różnice czasową działania obliczania całki różnymi metodami na CPU i GPU.
+Wykonane testy pokazują, że obliczanie całek na GPU jest mniej opłacalne (wolniejsze) dla n < 10^7, dla większych ilości przedziałów czas wykonania obliczeń na CPU drastycznie się zwiększa gdzie czas wykonania na GPU jest dalej znośny.
+Przyczyną takiego zjawiska jest wąskie gardło związane z przesyłem danych między pamięcią globalną a GPU.
