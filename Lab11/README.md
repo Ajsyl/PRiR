@@ -7,3 +7,5 @@ Program umożliwia załadowanie dowolnego pliku .obj dzięki czemu możemy je ob
 
 Zad2 Wykrywanie obrazu
 Program wykorzystujący sztuczną inteligencję oraz TF w celu rozpoznawania obiektów na obrazie. Program w wczytuje przygotowany model aby potem identyfikować różne obiekty na obrazku. W przypadku prostych elementów posiada dość dużą dokładność. W przypadku obrazu "stylizowanego" np stop klatka z animacji/kreskówki program program nie jest w stanie dobrze rozpoznawać obiektów, co najwyżej ludzkie twarze. 
+
+Źródło: https://www.tensorflow.org/hub/tutorials/object_detection
